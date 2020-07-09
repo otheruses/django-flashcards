@@ -52,7 +52,7 @@ sqlparse==0.3.1
 summa==1.2.0
 text-summarizer==0.0.4
 
-urllib3==1.24.1
+urllib3==1.24.2
 virtualenv==16.2.0
 virtualenvwrapper-win==1.2.6
 Werkzeug==0.14.1
