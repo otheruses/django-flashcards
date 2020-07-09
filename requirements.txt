@@ -51,7 +51,7 @@ SpeechRecognition==3.8.1
 sqlparse==0.3.1
 summa==1.2.0
 text-summarizer==0.0.4
-UNKNOWN==2.0.3
+
 urllib3==1.24.1
 virtualenv==16.2.0
 virtualenvwrapper-win==1.2.6
