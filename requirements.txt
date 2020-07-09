@@ -40,7 +40,7 @@ python-engineio==3.5.0
 pyttsx==1.1
 pyttsx3==2.7
 pytz==2019.3
-pywin32==224
+
 requests==2.21.0
 requests-kerberos==0.12.0
 sapi==0.2.0
